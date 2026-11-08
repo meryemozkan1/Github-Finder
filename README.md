@@ -1,25 +1,35 @@
-<h1> Github Finder </h1>
-<hr>
+# 🔍 GitHub Finder | User & Repository Search Application
 
-Bu depo, GitHub kullanıcılarını ve projelerini bulmayı kolaylaştıran bir proje içermektedir. Proje, GitHub API'sini kullanarak kullanıcıların profillerini ve projelerini aramasına olanak tanır. Aynı zamanda, kullanıcıların popüler kullanıcıları ve projeleri keşfetmelerine yardımcı olur.<br>
+---
 
-<h1> Özellikler </h1>
-<hr>
+This repository features a modern and responsive web application designed to search and explore GitHub user profiles and repositories effortlessly. Powered by the GitHub REST API, the project allows users to look up specific accounts, view detailed profile statistics, inspect repositories, and discover top developers in real-time.
 
-- Kullanıcı Arama:\* Kullanıcıların GitHub üzerinde kullanıcı profillerini aramasına olanak tanır. <br>
+---
 
-- Kullanıcı Profili:\* Kullanıcıların GitHub profillerini görüntüler, kullanıcı bilgilerini ve reposunu listeler. <br>
+## 🚀 Live Demo
+Explore the live website here: [GitHub Finder Live Site](https://meryemozkan1.github.io/Github-Finder/)
 
-<h1> Kullanılan Teknolojiler </h1>
-<hr>
+---
 
-- HTML5 <br>
+## ✨ Features
 
-- Css <br>
+- **Advanced User Search:** Allows users to query and look up any GitHub profile instantly by entering a username.
+- **Detailed Profile View:** Displays comprehensive profile details, including avatars, follower counts, bio, public repositories, and external links.
+- **Repository Listing:** Automatically fetches and lists the user's public repositories with direct links.
+- **Responsive Layout:** Optimized to provide a seamless user experience across mobile phones, tablets, and desktop devices.
 
-- JavaScript <br>
+---
 
-<h1> Ekran Görüntü </h1>
-<hr>
+## 🛠️ Technologies Used
 
-![](Github.gif)
+- **HTML5:** Semantic structural markup.
+- **CSS3 / Styling:** Custom modern design, clean spacing, and UI components.
+- **JavaScript (ES6+):** Asynchronous API data fetching (Fetch API / Async-Await), dynamic DOM manipulation, and event handling.
+
+---
+
+## 📱 Interface Preview
+
+---
+
+![GitHub Finder Preview](Github.gif)
